@@ -1,0 +1,47 @@
+[
+  {
+    "model": "nimble.contact",
+    "pk": 1,
+    "fields": {
+      "first_name": "Oleg",
+      "last_name": "Mishyn",
+      "email": "mystylename@gmail.com"
+    }
+  },
+  {
+    "model": "nimble.contact",
+    "pk": 2,
+    "fields": {
+      "first_name": "Ken",
+      "last_name": "Underwood III",
+      "email": "kenneth.underwood@yahoofinance.com"
+    }
+  },
+  {
+    "model": "nimble.contact",
+    "pk": 3,
+    "fields": {
+      "first_name": "Craig",
+      "last_name": "Jamieson",
+      "email": "craig@salesresultsllc.com"
+    }
+  },
+  {
+    "model": "nimble.contact",
+    "pk": 4,
+    "fields": {
+      "first_name": "Ken",
+      "last_name": "Gray",
+      "email": "kgray@cc-techgroup.com"
+    }
+  },
+  {
+    "model": "nimble.contact",
+    "pk": 5,
+    "fields": {
+      "first_name": "Eric",
+      "last_name": "Dobbins",
+      "email": "eric.dobbins@urdesigns.com"
+    }
+  }
+]
