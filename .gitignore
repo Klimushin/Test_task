@@ -1,5 +1,4 @@
 .env
 .idea/
 celerybeat-schedule
-db/
 __pycache__/
